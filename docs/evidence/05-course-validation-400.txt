@@ -1,0 +1,12 @@
+ 
+
+HTTP/1.1 400 Bad Request
+Host: 127.0.0.1:8002
+Connection: close
+X-Powered-By: PHP/8.2.12
+Cache-Control: no-cache, private
+Date: Mon, 02 Mar 2026 15:48:18 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+
+{"error":"VALIDATION_ERROR","message":"Both name and code fields are required."}

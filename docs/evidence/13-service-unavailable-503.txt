@@ -1,0 +1,12 @@
+ 
+
+HTTP/1.1 503 Service Unavailable
+Host: 127.0.0.1:8003
+Connection: close
+X-Powered-By: PHP/8.2.12
+Cache-Control: no-cache, private
+Date: Mon, 02 Mar 2026 15:49:56 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+
+{"error":"SERVICE_UNAVAILABLE","message":"Student Service is currently unavailable."}

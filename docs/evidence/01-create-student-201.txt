@@ -1,0 +1,12 @@
+ 
+
+HTTP/1.1 201 Created
+Host: 127.0.0.1:8001
+Connection: close
+X-Powered-By: PHP/8.2.12
+Cache-Control: no-cache, private
+Date: Mon, 02 Mar 2026 15:47:50 GMT
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+
+{"id":1,"message":"created"}

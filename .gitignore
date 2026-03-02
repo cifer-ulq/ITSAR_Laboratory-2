@@ -1,0 +1,28 @@
+# Laravel vendor folders (too large for git)
+student-service/vendor/
+course-service/vendor/
+enrollment-service/vendor/
+
+# Node modules
+student-service/node_modules/
+course-service/node_modules/
+enrollment-service/node_modules/
+
+# Environment files
+student-service/.env
+course-service/.env
+enrollment-service/.env
+
+# SQLite databases
+*.sqlite
+
+# Composer phar
+composer.phar
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
